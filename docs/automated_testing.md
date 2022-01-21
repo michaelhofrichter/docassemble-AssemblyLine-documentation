@@ -904,7 +904,7 @@ ALKiln uses the `Scenario` description to label test results. Try to use somethi
 
 Tests run when you commit your files to GitHub. That might be when you hit the 'Commit' button on the Packages page. It can also happen when you edit, add, or delete files in GitHub itself.
 
-If you know how to use GitHub [actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions#viewing-the-workflows-activity), you can also run the tests manually from GitHub actions with some more options.
+If you know how to use GitHub [actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions#viewing-the-workflows-activity), you can also run the tests manually from GitHub actions with some more options. Additionally, you can set it to run on a [schedule](https://docs.github.com/en/actions/using-workflows/triggering-a-workflow#using-a-schedule).
 
 ### Why should I write a Scenario description?
 
